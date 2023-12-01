@@ -1,0 +1,60 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 360 Sapporo
+
+## Media
+
+### Title
+album_F263B8A7_BB27_DFDE_4193_6CAC4FD1824B.label = Photo Album ProjectPIK2 (AreaEcopark)_ViewGerejaBEV_Draft01
+map_00110217_2528_193B_41B9_19907961E7F1.label = Sapporo
+map_62888200_2677_3F7F_41B3_F071BF8263CC.label = Nami Lt 1
+map_6288872D_2677_2586_41B6_352ADDF80C56.label = Nami Lt 3
+map_62888C39_2677_2B8E_41AC_1C2398B88EE4.label = Ryuji Lt 2
+map_62889CE3_2677_2481_41AD_F557C02D2A6B.label = Misaki Lt 2
+map_628F0544_2677_2587_41B9_A100D26AD19A.label = Azumi Lt 2
+map_628F2A4A_2677_2F82_4161_BED3A2F2C9BA.label = Misaki Lt 1
+map_628F57CA_2677_2483_41B1_A9A14D851A24.label = Azumi Lt 3
+map_628F648E_2677_2482_4186_5FDAB613E8B8.label = Nami Lt 2
+map_628F69AD_2677_2C86_41A6_AB7E4719037C.label = Ryuji Lt 1
+map_628F6ED7_2677_2481_4180_4F0AA7130C8F.label = Ryuji Lt 3
+map_628F6F82_2677_2483_417D_C0C6335B2CE2.label = Misaki Lt 3
+map_62DFC25B_2677_5F81_41AF_1308B2861777.label = Azumi Lt 1
+panorama_00444CAC_25D3_E486_41B8_1A86AC36FEEF.label = ViewTypeMisaki07_ZenGardenRooftop
+panorama_035500F0_2528_FAF5_41B6_83CFB3677251.label = Gate
+panorama_0927DBC5_25B1_2C81_41B0_71C0636E3EE7.label = Taman Jepang
+panorama_09853275_25B3_DF81_41AF_A045BA5A0BB9.label = Type Azumi
+panorama_0FD42EF2_25B3_2483_4197_20DBE967BBBE.label = ViewTypeAzumi03_RuangKamarTidurUtama
+panorama_0FD440A0_25B3_5CBE_41C2_5CBC8B4EEDD0.label = ViewTypeAzumi06_ZenGardenRooftop
+panorama_0FD4CB43_25B3_2D81_4181_D6CAB8B46DA0.label = ViewTypeAzumi05_LorongLantai03
+panorama_0FD4E472_25B3_3B82_41B0_DCF6F14D8799.label = ViewTypeAzumi04_RuangKamarAnak
+panorama_0FD79860_25B3_2BBE_41A5_E31BFF9A3AFC.label = ViewTypeAzumi02_RuangTamuDanPantry
+panorama_1DDD8E28_2578_6915_41C0_C6FD05020A85.label = Type Nami
+panorama_289447E0_25A0_B63D_41B4_F02BD39D69F3.label = ViewTypeNami02_LorongLantai01
+panorama_28A150D4_25AF_CA05_41B4_627D8710C5F7.label = ViewTypeMisaki02_RuangTamuDanPantry
+panorama_28A16353_25AF_CE03_41C2_19430D814F9C.label = ViewTypeMisaki06_LorongLantai03
+panorama_28A189DD_25AF_DA07_4176_F86F6FEC0773.label = ViewTypeMisaki04_RuangKamarTidurLt2
+panorama_28A1BEA0_25AF_D63D_41C2_352C4508CE37.label = ViewTypeMisaki05_RuangKamarTidurUtama
+panorama_28A1D549_25AF_CA0F_41B2_5BE99E8AF111.label = ViewTypeMisaki03_RuangKamarTidurLt2
+panorama_28A30A65_24D8_291F_41A8_ED27A2B87FA9.label = ViewTypeRyuji06_RuangKamarAnak1
+panorama_2958E3FC_24D8_1EED_4186_5DC6C8F39B4E.label = ViewTypeRyuji05_RuangKamarTidurUtama
+panorama_2988D4B2_24D8_3975_41C0_B7ACE8BFA272.label = ViewTypeRyuji03_ZenGardenLantai2
+panorama_298DB5AC_25A0_CA05_41B3_D1AA949EAF5F.label = ViewTypeNami05_RuangKamarAnak2
+panorama_298DE147_25A0_CA04_41B5_768031C6EC81.label = ViewTypeNami04_RuangUtama
+panorama_29923BB7_25A0_DE03_41A8_EA9C1C88CF1D.label = ViewTypeNami06_RuangKamarAnak1
+panorama_29927145_25A0_CA07_41C0_7F5A6729F88C.label = ViewTypeNami07_RuangKamarTidurUtama
+panorama_29935D30_25A0_BA1D_4192_BA0D5A4C2BB0.label = ViewTypeNami03_ZenGardenLantai2
+panorama_29CDBDF2_24D8_6AF5_41B6_10E212B98A9C.label = ViewTypeRyuji04_RuangUtama
+panorama_2B9A0C11_25AF_FA1F_41C1_7F90EB14C1BC.label = Type Misaki
+panorama_2C232BD4_2373_B728_41AC_5CE5E145E9A8.label = ViewTypeRyuji02_LorongLantai01
+panorama_2D1EE7A8_237F_9F67_41B3_A0813DEF493A.label = Type Ryuji
+panorama_32924E34_25D1_2787_41B4_4BBB14AD94D2.label = ViewTypeRyuji07_RuangKamarAnak2
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_0475E8C1_25D1_2CFE_41B4_DFA061D02E79.toolTip = Ruang Kamar Tidur Lt2
