@@ -50,9 +50,9 @@ panorama_8EEFB80F_801D_99AB_41B5_15BFA1F67B4B.label = ViewTypeRyuji04_RuangUtama
 panorama_8F05A49F_801D_8AAB_41C4_B4462DEC0D8A.label = ViewTypeRyuji03_ZenGardenLantai2
 panorama_8F0DD61F_801E_89AB_41D6_DBA539520C5E.label = ViewTypeAzumi03_RuangKamarTidurUtama
 panorama_8F2EDF30_8128_D9E3_4177_29F087B40DD8.label = Type Misaki (7X12)
-panorama_8F573557_801E_8BBB_41DB_25BB00D6F9B5.label = ViewTypeMisaki05_RuangKamarTidurUtama
 panorama_8F9B1273_801F_8E7B_41B5_BF335BA38790.label = Type Ryuji (9X15)
 panorama_8FD1DE08_801B_B995_41BD_659F594BFD79.label = ViewTypeRyuji06_RuangKamarAnak1
+panorama_9DD14B30_8CA2_1A36_41C2_420E32DAA59B.label = ViewTypeMisaki05_RuangKamarTidurUtama
 
 ## Hotspot
 
