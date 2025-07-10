@@ -53,11 +53,11 @@ panorama_8F2EDF30_8128_D9E3_4177_29F087B40DD8.label = Type Misaki (7X12)
 panorama_8FD1DE08_801B_B995_41BD_659F594BFD79.label = ViewTypeRyuji06_RuangKamarAnak1
 panorama_9DD14B30_8CA2_1A36_41C2_420E32DAA59B.label = ViewTypeMisaki05_RuangKamarTidurUtama
 panorama_E2A47600_F412_5571_41D1_8F16B84B6735.label = ViewTypeAzumi04_RuangKamarAnak
+panorama_E87A313C_F413_AF90_41E3_9A141176C869.label = ViewTipeAyame02_RuangTamu
 panorama_F0C4E625_FDA8_D80E_41E3_DB445E35C6E1.label = Type Ryuji (9X15)
 panorama_FD1BF38E_F3F3_D371_41EC_AC7357D93929.label = ViewTipeAyame03_HallLantai2
 panorama_FD2E9533_F3F3_D797_41A1_F523FBD4037B.label = Type Azumi (5X10)
 panorama_FD6552F7_F3F2_B290_41D6_28554C4D93B9.label = ViewTipeAyame04_RuangKamarAnak
-panorama_FDA156F3_F3F2_F290_41DD_C4950AEF575D.label = ViewTipeAyame02_RuangTamu
 panorama_FDE6F468_F3F2_B5B0_41E3_02F6F64D328A.label = Type Ayame (5x10)
 panorama_FDED6ADA_F3F2_7290_41E7_70A3292C91BB.label = ViewTipeAyame03_RuangKamarUtama
 
